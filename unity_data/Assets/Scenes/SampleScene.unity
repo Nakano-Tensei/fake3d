@@ -371,11 +371,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mapText: {fileID: 4900000, guid: 6362d52ea9f1f354d90d29ac6d500986, type: 3}
   prefabs:
+  - {fileID: 7222272759740317198, guid: a0026ca9bb14a4747bbe0b43e9a8a1cc, type: 3}
+  - {fileID: 821412386578645021, guid: 214f0eb4bb6cc1e4b8814acdd615cce5, type: 3}
   - {fileID: 7893775673833683857, guid: 4b9620064d9d8324f9c971a53de22bd3, type: 3}
   - {fileID: 6261610418336039859, guid: d8cd33f3a8d37ba4d93698383d720bac, type: 3}
   - {fileID: 2385520879926412052, guid: 8c92bd511931d2843a976355a05360c0, type: 3}
-  - {fileID: 7222272759740317198, guid: a0026ca9bb14a4747bbe0b43e9a8a1cc, type: 3}
-  - {fileID: 821412386578645021, guid: 214f0eb4bb6cc1e4b8814acdd615cce5, type: 3}
 --- !u!4 &761854013
 Transform:
   m_ObjectHideFlags: 0
